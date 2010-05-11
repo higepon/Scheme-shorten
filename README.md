@@ -25,8 +25,8 @@ The idea come from "Gauche Devlog - Shorter names http://blog.practical-scheme.n
 
 
 ## Author
-OKUMURA Yuki
-Taro Minowa(Higepon)
+* OKUMURA Yuki
+* Taro Minowa(Higepon)
 
 ## License
 New BSD License
